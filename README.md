@@ -24,7 +24,7 @@
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### **Programming & Tools**
