@@ -47,15 +47,6 @@ Custom frontend player using HTML/CSS/JS.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DeveloperSharad2004&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperSharad2004&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/sharad-jaiswal-02200a280
 - 📧 Email: [sharadjais80@gmail.com](mailto:sharadjais80@gmail.com)
