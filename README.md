@@ -36,6 +36,9 @@
 
 ## 📌 Featured Projects
 
+### ⭐ **CareerPilot AI**  
+Authentication | Resume Analysis | AI Interview Reports | ATS Resume Generator
+
 ### ⭐ **Ai Virtual Assistant**  
 Authentication | Gemini API | Responsive | Intelligent Conversation
 
